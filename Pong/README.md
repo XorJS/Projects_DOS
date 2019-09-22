@@ -2,11 +2,11 @@
 
 My Pong version (Asm / 1999).
 
-![Screenshot0](/Screenshots/screenshot0.jpg)
+![Screenshot0](/Pong/Screenshots/screenshot0.jpg)
 
-![Screenshot1](/Screenshots/screenshot1.jpg)
+![Screenshot1](/Pong/Screenshots/screenshot1.jpg)
 
-![Screenshot2](/Screenshots/screenshot2.jpg)
+![Screenshot2](/Pong/Screenshots/screenshot2.jpg)
 
 ## Play
 
