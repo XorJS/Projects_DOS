@@ -35,7 +35,7 @@ cycles=max ### auto
 
 ### Code
 
-**Code in asm (x86). Sorry for the French comment ;)**
+**Code in asm (x86). Sorry for the French comments ;)**
 
 To compile with Turbo Assembler:
 ```
