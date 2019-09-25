@@ -1,6 +1,6 @@
 # Plasma Effect
 
-Plasma Effect (Turbo Pascal / Asm / 1999).
+Plasma Effect (Turbo Pascal / Asm / 199X).
 
 ![Screenshot0](/PlasmaEffect/Screenshots/screenshot0.jpg)
 
