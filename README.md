@@ -39,3 +39,12 @@ https://www.jsr-productions.com/dos/PLASMAEF.html
 ![Screenshot0](/GIF/Screenshots/screenshot0.jpg)
 
 https://www.jsr-productions.com/dos/GIF.html
+
+
+# ANM
+
+Play .ANM file (Asm / Turbo Pascal / 199X).
+
+![Screenshot0](/ANM/Screenshots/screenshot0.jpg)
+
+https://www.jsr-productions.com/dos/ANM.html
