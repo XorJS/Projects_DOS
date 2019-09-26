@@ -30,3 +30,12 @@ Play: https://www.jsr-productions.com/dos/3DTEAPOT.html
 ![Screenshot0](/PlasmaEffect/Screenshots/screenshot0.jpg)
 
 https://www.jsr-productions.com/dos/PLASMAEF.html
+
+
+## GIF
+
+*GIF (Asm / Turbo Pascal / 1998).*
+
+![Screenshot0](/GIF/Screenshots/screenshot0.jpg)
+
+https://www.jsr-productions.com/dos/GIF.html
