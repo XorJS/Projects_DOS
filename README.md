@@ -48,3 +48,15 @@ Play .ANM file (Asm / Turbo Pascal / 199X).
 ![Screenshot0](/ANM/Screenshots/screenshot0.jpg)
 
 https://www.jsr-productions.com/dos/ANM.html
+
+
+## TicTacToe
+
+TicTacToe (Turbo Pascal / Asm / 1997).
+
+*One of my first game (1996-1997) in Turbo Pascal/Assembly. I used Deluxe Paint Animation (DPaint) to do the graphics and I've overuse the smooth/blur command.
+The AI/Computer is in one function (Franglais: CERCLE_BRAIN)...*
+
+![Screenshot0](/TicTacToe/Screenshots/screenshot0.jpg)
+
+https://www.jsr-productions.com/dos/TicTacToe.html
