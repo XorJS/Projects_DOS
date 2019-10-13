@@ -70,3 +70,12 @@ Rain (Asm / Turbo Pascal / 199X).
 
 https://www.jsr-productions.com/dos/Rain.html
 
+
+## Blue Flame
+
+Blue Flame (Asm / Turbo Pascal / 199X).
+
+![Screenshot0](/BlueFlame/Screenshots/screenshot0.jpg)
+
+https://www.jsr-productions.com/dos/BlueFlame.html
+
